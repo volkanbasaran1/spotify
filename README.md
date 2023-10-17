@@ -1,3 +1,4 @@
+![ekran](https://github.com/volkanbasaran1/spotify/assets/76842256/295c3c56-f372-4b59-8cda-1564a42569eb)
 <!DOCTYPE html>
 <html lang="tr">
 <head>
